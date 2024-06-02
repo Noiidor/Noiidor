@@ -1,21 +1,31 @@
 # Greetings. I'm Rodion.
 
-<img src="./imgs/pepeascii.gif" alt="pepenerd" width="400">
+<div align="center">
+    <img src="./imgs/pepematrix.gif" alt="pepenerd" width="400">
+</div>
 
 ## About Me
 
 - Software Engineer with specialty in Backend dev, but wide spectrum of interests.
-- Entirely self-taught. For me, learning is a lifetime journey - it ends when im dead <img src="./imgs/pepesuit.png" alt="pepesuit" width="35">
+- Entirely self-taught. For me, learning is a lifetime journey - it ends when im dead <img src="./imgs/pepesuit.png" alt="pepesuit" width="35">  
+  
 - Interested in backend, system, game dev, ML, simulations, generative art and also classical engineering!
-- Thrilled with many fundamental sciences like Astro/Physics, Math, Chemistry, Biology <img src="./imgs/pepenerd.png" alt="pepenerd" width="35">
-- Currently stuck in Windows, but really wanna switch to Linux <img src="./imgs/pepepray.png" alt="pepepray" width="35">
+- Thrilled with many fundamental sciences like Astro/Physics, Math, Chemistry, Biology <img src="./imgs/pepenerd.png" alt="pepenerd" width="35">  
+  
+- Currently stuck in Windows, but really wanna switch to Linux <img src="./imgs/pepepray.png" alt="pepepray" width="35">  
+  
 - In love with ✨Go✨
 - In near future will definetely join cargo-cult and add 🦀Rust with ⚡Zig to my skills list.
 
 ## I'm currently...
 
-> Developing cool web [Mandelbrot Set Explorer](https://github.com/Noiidor/go-mandelbrot) in Go!  
+> Developing cool web [Mandelbrot Set Explorer](https://github.com/Noiidor/go-mandelbrot) in Go! 
 
+## Stats
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noiidor&size_weight=0.5&count_weight=1.5&layout=donut&theme=dark" />
+</div>
+  
 ## My  *T <sub>E</sub> C <sup>H</sup> <sub>S</sub> T <sup>A</sup> C <sub>K</sub>*
 
 ### Programming and Markup Languages
@@ -65,3 +75,4 @@
 ![Static Badge](https://img.shields.io/badge/Good%20Ol'%20Terminal-241F31?style=flat&logo=gnometerminal&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white)
+

@@ -1,14 +1,14 @@
 # Greetings. I'm Rodion.
 
-![Groyper](./imgs/groyper.png)
+<img src="./imgs/groyper.png" alt="pepenerd" width="300">
 
 ## About Me
 
 - Software Engineer with specialty in Backend dev, but wide spectrum of interests.
-- Entirely self-taught. For me, learning is a lifetime journey - it ends when im dead.<img src="./imgs/pepesuit.png" alt="pepesuit" width="35">
+- Entirely self-taught. For me, learning is a lifetime journey - it ends when im dead <img src="./imgs/pepesuit.png" alt="pepesuit" width="35">
 - Interested in backend, system, game dev, ML, simulations, generative art and also classical engineering!
-- Thrilled with many fundamental sciences like Astro/Physics, Math, Chemistry, Biology<img src="./imgs/pepenerd.png" alt="pepenerd" width="35">
-- Currently stuck in Windows, but really wanna switch to Linux<img src="./imgs/pepepray.png" alt="pepepray" width="35">
+- Thrilled with many fundamental sciences like Astro/Physics, Math, Chemistry, Biology <img src="./imgs/pepenerd.png" alt="pepenerd" width="35">
+- Currently stuck in Windows, but really wanna switch to Linux <img src="./imgs/pepepray.png" alt="pepepray" width="35">
 - In love with ✨Go✨
 - In near future will definetely join cargo-cult and add 🦀Rust with ⚡Zig to my skills list.
 

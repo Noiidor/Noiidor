@@ -1,21 +1,21 @@
 # Greetings. I'm Rodion.
 
 <div align="center">
-    <img src="./imgs/pepematrix.gif" alt="pepenerd" width="400">
+    <img src="./imgs/america-ya.gif" alt="pepenerd" width="400">
 </div>
 
 ## About Me
 
-- Software Engineer with specialty in Backend dev, but wide spectrum of interests.
-- Entirely self-taught. For me, learning is a lifetime journey - it ends when im dead <img src="./imgs/pepesuit.png" alt="pepesuit" width="35">  
+- Software Engineer with a specialty in backend dev, but with a wide spectrum of interests.
+- Entirely self-taught. For me, learning is a lifelong journey — it ends when Im dead <img src="./imgs/pepesuit.png" alt="pepesuit" width="35">  
   
-- Interested in backend, system, game dev, ML, simulations, generative art and also classical engineering!
-- Thrilled with many fundamental sciences like Astro/Physics, Math, Chemistry, Biology <img src="./imgs/pepenerd.png" alt="pepenerd" width="35">  
+- Interested in backend dev, system dev, gamedev, machine learning, simulations, generative art, and classical engineering!
+- Thrilled by many fundamental sciences such as astronomy, physics, mathematics, chemistry, and biology <img src="./imgs/pepenerd.png" alt="pepenerd" width="35">  
   
-- Currently stuck in Windows, but really wanna switch to Linux <img src="./imgs/pepepray.png" alt="pepepray" width="35">  
+- Currently stuck on Windows, but really wanna switch to Linux <img src="./imgs/pepepray.png" alt="pepepray" width="35">  
   
 - In love with ✨Go✨
-- In near future will definetely join cargo-cult and add 🦀Rust with ⚡Zig to my skills list.
+- In near future will definetely join cargo-cult and add 🦀Rust with ⚡Zig to my skill set.
 
 ## I'm currently...
 

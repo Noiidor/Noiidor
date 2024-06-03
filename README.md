@@ -1,7 +1,7 @@
 # Greetings. I'm Rodion.
 
 <div align="center">
-    <img src="./imgs/america-ya.gif" alt="pepenerd" width="400">
+    <img src="./imgs/america-ya.gif" alt="pepenerd" width="500">
 </div>
 
 ## About Me

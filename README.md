@@ -19,7 +19,8 @@
 
 ## I'm currently...
 
-> Developing cool web [Mandelbrot Set Explorer](https://github.com/Noiidor/go-mandelbrot) in Go! 
+> Developing cool web [Mandelbrot Set Explorer](https://github.com/Noiidor/go-mandelbrot) in Go!  
+<img src="./imgs/render3.png" alt="pepenerd" width="800">
 
 ## Stats
 <div align="center">

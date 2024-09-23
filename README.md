@@ -12,7 +12,9 @@
 - Interested in backend dev, system dev, gamedev, machine learning, simulations, generative art, and classical engineering!
 - Thrilled by many fundamental sciences such as astronomy, physics, mathematics, chemistry, and biology <img src="./imgs/pepenerd.png" alt="pepenerd" width="35">  
   
-- Currently stuck on Windows, but really wanna switch to Linux <img src="./imgs/pepepray.png" alt="pepepray" width="35">  
+- I use vim btw.
+
+- I use NixOS btw.
   
 - In love with ✨Go✨
 - In near future will definetely join cargo-cult and add 🦀Rust with ⚡Zig to my skill set.

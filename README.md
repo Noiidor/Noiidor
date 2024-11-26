@@ -20,8 +20,10 @@
 - In near future will definetely join cargo-cult and add 🦀Rust with ⚡Zig to my skill set.
 
 ## I'm currently...
+> Working on my [load testing utility](https://github.com/Noiidor/highloader) in Go! 
 
-> Developing cool web [Mandelbrot Set Explorer](https://github.com/Noiidor/go-mandelbrot) in Go!  
+
+> One of my work! [Mandelbrot Set Explorer](https://github.com/Noiidor/go-mandelbrot)
 <a href="https://github.com/Noiidor/go-mandelbrot"><img src="./imgs/render3.png" alt="pepenerd" width="800">
 
 ## Stats

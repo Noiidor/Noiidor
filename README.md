@@ -7,7 +7,7 @@
 ## About Me
 
 - Software Engineer with a specialty in backend dev, but with a wide spectrum of interests.
-- Entirely self-taught. For me, learning is a lifelong journey — it ends when Im dead <img src="./imgs/pepesuit.png" alt="pepesuit" width="35">  
+- Entirely self-taught. Im constantly studying myself and i like to learn something new every day!
   
 - Interested in backend dev, system dev, gamedev, machine learning, simulations, generative art, and classical engineering!
 - Thrilled by many fundamental sciences such as astronomy, physics, mathematics, chemistry, and biology <img src="./imgs/pepenerd.png" alt="pepenerd" width="35">  
@@ -16,8 +16,8 @@
 
 - I use NixOS btw.
   
-- In love with ✨Go✨
-- In near future will definetely join cargo-cult and add 🦀Rust with ⚡Zig to my skill set.
+- In like ✨Go✨ very much!
+- Im really interested in system-level languages like Zig, Rust and Odin.
 
 ## I'm currently...
 > Working on my [load testing utility](https://github.com/Noiidor/highloader) in Go! 

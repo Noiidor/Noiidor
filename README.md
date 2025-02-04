@@ -8,23 +8,18 @@
 
 - Software Engineer with a specialty in backend dev, but with a wide spectrum of interests.
 - Entirely self-taught. Im constantly studying myself and i like to learn something new every day!
-  
-- Interested in backend dev, system dev, gamedev, machine learning, simulations, generative art, and classical engineering!
-- Thrilled by many fundamental sciences such as astronomy, physics, mathematics, chemistry, and biology <img src="./imgs/pepenerd.png" alt="pepenerd" width="35">  
-  
+- Interested in backend dev, system dev, gamedev, machine learning, simulations, generative art, and classical engineering.
 - I use vim btw.
-
 - I use NixOS btw.
-  
-- In like ✨Go✨ very much!
-- Im really interested in system-level languages like Zig, Rust and Odin.
+- Golang is favorite!
+- Im interested in system-level and infrastruction programming.
 
 ## I'm currently...
-> Working on my [load testing utility](https://github.com/Noiidor/highloader) in Go! 
+> Studying more about CS and Golang fundamentals...
 
 
 > One of my work! [Mandelbrot Set Explorer](https://github.com/Noiidor/go-mandelbrot)
-<a href="https://github.com/Noiidor/go-mandelbrot"><img src="./imgs/render3.png" alt="pepenerd" width="800">
+<a href="https://github.com/Noiidor/go-mandelbrot"><img src="./imgs/render3.png" width="800">
 
 ## Stats
 <div align="center">

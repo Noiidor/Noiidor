@@ -1,4 +1,4 @@
-# Greetings. I'm Rodion.
+# Welcome
 
 <div align="center">
     <img src="./imgs/america-ya.gif" alt="pepenerd" width="500">
@@ -6,19 +6,18 @@
 
 ## About Me
 
-- Software Engineer with a specialty in backend dev, but with a wide spectrum of interests.
-- Entirely self-taught. Im constantly studying myself and i like to learn something new every day!
-- Interested in backend dev, system dev, gamedev, machine learning, simulations, generative art, and classical engineering.
-- I use vim btw.
-- I use NixOS btw.
-- Golang is favorite!
-- Im interested in system-level and infrastruction programming.
+- I’m a software engineer specializing in backend development, but with a broad range of interests.
+- I learn new things every day and am extremely curious about new tech, but with great appreciation for older, time-tested things.
+- Interested in: backend/systems dev, game dev, ML, simulations, generative art, and classical engineering. 
+  Currently diving deep into systems-level and infrastructure programming.
+- I use Vim (btw) and NixOS (btw).
+- Golang is my favorite!
 
 ## I'm currently...
-> Studying more about CS and Golang fundamentals...
+> Studying more about CS and Golang internals...
 
 
-> One of my work! [Mandelbrot Set Explorer](https://github.com/Noiidor/go-mandelbrot)
+> One of my projects! [Mandelbrot Set Explorer](https://github.com/Noiidor/go-mandelbrot)
 <a href="https://github.com/Noiidor/go-mandelbrot"><img src="./imgs/render3.png" width="800">
 
 ## Stats
@@ -26,7 +25,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noiidor&size_weight=0.5&count_weight=1.5&layout=donut&theme=dark" />
 </div>
   
-## My  *T <sub>E</sub> C <sup>H</sup> <sub>S</sub> T <sup>A</sup> C <sub>K</sub>*
+## My tech stack
 
 ### Programming and Markup Languages
 
@@ -41,7 +40,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-### Databases and Cloud Providers
+### Databases and Infrastructure
 
 ![Static Badge](https://img.shields.io/badge/Yandex%20Cloud-5282FF?style=flat&logo=yandexcloud&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -49,6 +48,15 @@
 ![Static Badge](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### Monitoring & Observability
+![Static Badge](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Jaeger-37383F?style=flat&logo=jaeger&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MinIO-E67E22?style=flat&logo=minio&logoColor=white)
 
 ### CI/CD
 
@@ -72,7 +80,7 @@
 ### Software and Tools
 
 ![Static Badge](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white)
-![Static Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/psql-4169E1?style=flat&logo=postgresql&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto)  
 ![Static Badge](https://img.shields.io/badge/Good%20Ol'%20Terminal-241F31?style=flat&logo=gnometerminal&logoColor=white&logoSize=auto)

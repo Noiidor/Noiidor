@@ -11,13 +11,9 @@
 - Interested in: backend/systems dev, game dev, ML, simulations, generative art, and classical engineering. 
   Currently diving deep into systems-level and infrastructure programming.
 - I use Vim (btw) and NixOS (btw).
-- Golang is my favorite!
-
-## I'm currently...
-> Studying more about CS and Golang internals...
 
 
-> One of my projects! [Mandelbrot Set Explorer](https://github.com/Noiidor/go-mandelbrot)
+> One of my projects [Mandelbrot Set Explorer](https://github.com/Noiidor/go-mandelbrot)
 <a href="https://github.com/Noiidor/go-mandelbrot"><img src="./imgs/render3.png" width="800">
 
 ## Stats
